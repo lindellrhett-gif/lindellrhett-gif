@@ -1,11 +1,15 @@
 ### Hi, I'm Rhett 👋
 
-I'm a Computer Science and Cyber Security student at the University of North
-Dakota, looking for a **software engineering or security internship**. I build
-full-stack mobile apps on my own, from the database and security rules to the
-algorithms and the App Store release.
+I'm a Computer Science student (Cybersecurity minor) at the University of North
+Dakota, graduating in May 2029. I'm looking for an internship in **AI
+development, software engineering, or cybersecurity**, remote, hybrid, or in
+person, and I'm open to other roles too.
+
+I build full-stack mobile apps on my own, from the database and security rules
+to the algorithms and the App Store release.
 
 **Portfolio:** [lindellrhett-gif.github.io](https://lindellrhett-gif.github.io/) ·
+**LinkedIn:** [rhett-lindell](https://www.linkedin.com/in/rhett-lindell) ·
 **Email:** [lindellrhett@gmail.com](mailto:lindellrhett@gmail.com)
 
 ---
@@ -28,7 +32,7 @@ An iPhone workout tracker that suggests the weight for your next set.
 [Source](https://github.com/lindellrhett-gif/rust-strength-app) ·
 [Project page](https://lindellrhett-gif.github.io/rust-strength.html)
 
-#### 🥫 [Shelfsmith](https://lindellrhett-gif.github.io/shelfsmith.html): in development
+#### 🥫 [Shelfsmith](https://lindellrhett-gif.github.io/shelfsmith.html): in TestFlight beta
 
 A shared-pantry app that shows what you can cook with what you already have.
 
@@ -49,7 +53,8 @@ A shared-pantry app that shows what you can cook with what you already have.
 
 #### 🧰 Tools I use
 
-- **Languages:** TypeScript, JavaScript, SQL (PostgreSQL, PL/pgSQL), HTML, CSS
+- **Languages:** TypeScript, JavaScript, SQL (PostgreSQL, PL/pgSQL), Python,
+  Java, C, C++, HTML, CSS
 - **Mobile:** React Native, React, Expo, Expo Router, TanStack Query
 - **Backend and security:** Supabase, PostgreSQL, Row Level Security, Auth,
   Edge Functions, Realtime, webhooks
