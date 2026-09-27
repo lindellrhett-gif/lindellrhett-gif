@@ -6,9 +6,8 @@ development, software engineering, or cybersecurity**, remote, hybrid, or in
 person, and I'm open to other roles too.
 
 I build full-stack mobile apps on my own, from the database and security rules
-to the algorithms and the App Store release, using AI-assisted development with
-Claude Code: I own the architecture and data design, review the generated code,
-and lead debugging and testing.
+to the algorithms and the App Store release. Claude Code is one of the tools I
+use for AI-assisted development.
 
 **Portfolio:** [lindellrhett-gif.github.io](https://lindellrhett-gif.github.io/) ·
 **LinkedIn:** [rhett-lindell](https://www.linkedin.com/in/rhett-lindell) ·
