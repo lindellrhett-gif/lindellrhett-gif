@@ -6,10 +6,13 @@ development, software engineering, or cybersecurity**, remote, hybrid, or in
 person, and I'm open to other roles too.
 
 I build full-stack mobile apps on my own, from the database and security rules
-to the algorithms and the App Store release.
+to the algorithms and the App Store release, using AI-assisted development with
+Claude Code: I own the architecture and data design, review the generated code,
+and lead debugging and testing.
 
 **Portfolio:** [lindellrhett-gif.github.io](https://lindellrhett-gif.github.io/) ·
 **LinkedIn:** [rhett-lindell](https://www.linkedin.com/in/rhett-lindell) ·
+**Résumé:** [PDF](https://lindellrhett-gif.github.io/Rhett-Lindell-Resume.pdf) ·
 **Email:** [lindellrhett@gmail.com](mailto:lindellrhett@gmail.com)
 
 ---
@@ -60,3 +63,4 @@ A shared-pantry app that shows what you can cook with what you already have.
   Edge Functions, Realtime, webhooks
 - **Testing and shipping:** Jest, PGlite, ESLint, Git, EAS Build, TestFlight,
   App Store Connect
+- **AI tools:** Claude API, Claude Code
