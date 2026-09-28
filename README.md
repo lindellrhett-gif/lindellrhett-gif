@@ -48,7 +48,7 @@ A shared-pantry app that shows what you can cook with what you already have.
 
 `TypeScript` `React Native` `Supabase Edge Functions` `Realtime` `Claude API` `RevenueCat`
 
-[Source](https://github.com/lindellrhett-gif/cooking-app) ·
+[Overview and screenshots](https://github.com/lindellrhett-gif/shelfsmith) ·
 [Project page](https://lindellrhett-gif.github.io/shelfsmith.html)
 
 ---
