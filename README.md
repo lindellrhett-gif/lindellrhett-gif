@@ -16,7 +16,7 @@ use for AI-assisted development.
 
 ---
 
-#### 🏋️ [Rust Strength](https://lindellrhett-gif.github.io/rust-strength.html): submitted to the App Store
+#### 🏋️ [Rust Strength](https://lindellrhett-gif.github.io/rust-strength.html): [live on the App Store](https://apps.apple.com/us/app/rust-strength/id6811736131)
 
 An iPhone workout tracker that suggests the weight for your next set.
 
@@ -26,8 +26,8 @@ An iPhone workout tracker that suggests the weight for your next set.
 - **Offline-first:** sets logged with no signal are queued and synced later.
 - **Social features:** a friends feed and leaderboards, secured with PostgreSQL
   Row Level Security and permission-checked SQL functions.
-- **Tested and shipped:** 519 unit tests, released through TestFlight to App
-  Store review.
+- **Tested and shipped:** 519 unit tests, a TestFlight beta, and an App Store
+  release on October 2, 2026.
 
 `TypeScript` `React Native` `Expo` `Supabase` `PostgreSQL` `TanStack Query` `Jest`
 
